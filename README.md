@@ -82,7 +82,7 @@ nanonets-invoice-processing/
 
 ### 2. Data Extraction Output
 
-![Question 2](Question_2.jpeg)
+![Question 2](question_2.jpeg)
 
 
 ---
